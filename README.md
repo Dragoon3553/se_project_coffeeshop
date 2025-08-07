@@ -13,4 +13,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Adding animation for header picture
+- Making "terms of use" into a link that contains the terms
+- Adding pictures of baked goods and different coffees
+- A pictue of the coffee shop with customers in the about section
